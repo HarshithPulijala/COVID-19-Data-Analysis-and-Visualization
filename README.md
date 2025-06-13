@@ -55,10 +55,4 @@ The dataset (`covid_data.csv`) includes:
 
 ---
 
-## 📝 How to Run
-
-1. Clone the repository or download the code
-2. Ensure `covid_data.csv` is in the same directory
-3. Run the Python file:
-   ```bash
-   python covid_19_data_analysis.py
+ 
